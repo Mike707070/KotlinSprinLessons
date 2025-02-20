@@ -3,9 +3,8 @@ package org.example.lesson_2
 fun main() {
 
     val sumStudent = 4.0
-    val sumRatings = (3 + 4 + 3 +5)
-    println("%.2f".format (sumRatings / sumStudent))
-
+    val sumRatings: Float = (3f + 4f + 3f + 5f)
+    println("%.2f".format(sumRatings / sumStudent))
 
 
 }
