@@ -12,5 +12,4 @@ fun main() {
     lastName = "Андреева"
     println("$firstName $middleName $lastName, $age")
 
-
 }
